@@ -1,5 +1,5 @@
   {--COM2108 FUNCTIONAL PROGRAMMING ASSIGNMENT
-  JASMINE TAY HUI PING
+  JASMINE HUI PING TAY
   Enigma.hs-}
 {-# OPTIONS_GHC -Wno-incomplete-patterns #-}
   module Enigma where
